@@ -1,0 +1,70 @@
+{
+    "Header": {
+        "Id": 83,
+        "TxnId": "437912-1488307019",
+        "RefNumber": "IE-1028",
+        "TxnDate": "2017-02-28T00:00:00",
+        "ShipDate": "2017-03-03T00:00:00",
+        "CustomerId": "8000044A-1371756060",
+        "CustomerIntId": 787,
+        "CustomerName": "Super King Market Van Nuys",
+        "RepId": "80000019-1409174155",
+        "Route": "V2",
+        "Driver": "Yura",
+        "PalletNumber": "1",
+        "IsFullyInvoiced": true,
+        "IsManuallyClosed": false,
+        "Memo": null,
+        "PONumber": null,
+        "Lines": [
+            {
+                "TxnLineID": "437918-1488307019",
+                "ItemId": "80000411-1424383618",
+                "ItemName": "2200 TAN 1% 500ml",
+                "Desc": "Yogurt Drink Carbonated Tan 1%, 500ml  (12 Units/cs)",
+                "Quantity": 12.00000,
+                "Rate": 1.00000
+            },
+            {
+                "TxnLineID": "437914-1488307019",
+                "ItemId": "8000050F-1467317962",
+                "ItemName": "2203 MINT AYRAN 1% 500ml",
+                "Desc": "Yogurt Drink Mint Ayran 1%, 500ml (12 Units/cs)",
+                "Quantity": 12.00000,
+                "Rate": 1.00000
+            },
+            {
+                "TxnLineID": "437916-1488307019",
+                "ItemId": "80000431-1427489571",
+                "ItemName": "3300 BANDI KEFIR NATURAL 59OZ",
+                "Desc": "YO GUSTO Bandi Kefir Natural 59OZ (9 Units/cs)",
+                "Quantity": 18.00000,
+                "Rate": 4.80000
+            },
+            {
+                "TxnLineID": "437917-1488307019",
+                "ItemId": "80000430-1427489492",
+                "ItemName": "3301 BANDI KEFIR ORIGINAL 59OZ",
+                "Desc": "YO GUSTO Bandi Kefir Original 59OZ (9 Units/cs)",
+                "Quantity": 18.00000,
+                "Rate": 4.80000
+            },
+            {
+                "TxnLineID": "437915-1488307019",
+                "ItemId": "800004A5-1450317582",
+                "ItemName": "3310 BANDI STRAW KEFIR  1% 59OZ",
+                "Desc": "BANDI Strawberry Yogurt Drink 1%, 59 OZ (9 Units/cs)",
+                "Quantity": 9.00000,
+                "Rate": 4.20000
+            },
+            {
+                "TxnLineID": "437919-1488307019",
+                "ItemId": "800004A6-1450317665",
+                "ItemName": "3311 BANDI ZDOROVIE KEFIR 59OZ",
+                "Desc": "BANDI Zdorovie Kefir Cultured Milk, 59 OZ (9 Units/cs)",
+                "Quantity": 18.00000,
+                "Rate": 4.80000
+            }
+        ]
+    }
+}
